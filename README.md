@@ -16,7 +16,7 @@ Next.js, TypeScript, Tailwind, Postgres, Supabase, Prisma, Stripe Connect, PostG
 
 #### Background
 
-Eight years in the music industry before going full-stack. Most recently Artist Relations PM and Label Manager at Rimas Entertainment / Sonar Music, working with CrisMJ, Hades66, Slayter, and Ankhal. Earlier roles at Defected Records (London) and Exhale Music (Belgium).
+Eight years in the music industry before going full-stack. Most recently Artist Relations PM and Label Manager at Rimas Entertainment / Sonar Music, working with CrisMJ, Hades66, Slayter, Ankhal, and among many others. Earlier roles at Defected Records (London) and Exhale Music (Belgium).
 
 #### Open to
 
